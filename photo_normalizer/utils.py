@@ -1,6 +1,5 @@
 import hashlib
 
-
 BUF_SIZE = 65536 * 1024
 
 

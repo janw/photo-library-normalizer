@@ -1,0 +1,5 @@
+JPEG_EXTENSIONS = (".jpg", "jpeg")
+DEFAULT_EXTENSION = JPEG_EXTENSIONS[0]
+
+FILENAME_FMT = "%Y-%m-%d__%H-%M-%S"
+PATHNAME_FMT = "%Y"
